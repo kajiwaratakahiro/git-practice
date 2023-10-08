@@ -4,3 +4,6 @@
 rebase-practicで更新(rebaseコンフリクト用)
 スタッシュ編集(トラック)
 2回目
+
+### GIF
+![demo](images/image.gif)
